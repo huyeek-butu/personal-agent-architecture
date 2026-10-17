@@ -74,4 +74,4 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-**中文版** → [README.md](README.md) · **正文（中文）** → [AGENT-SYSTEM-ARCHITECTURE.md](AGENT-SYSTEM-ARCHITECTURE.md)
+**中文** → [README.md](README.md) · **Full text** → [AGENT-SYSTEM-ARCHITECTURE.en.md](AGENT-SYSTEM-ARCHITECTURE.en.md)

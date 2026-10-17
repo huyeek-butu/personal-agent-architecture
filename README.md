@@ -73,3 +73,7 @@
 ## License
 
 MIT —— 见 [LICENSE](LICENSE)。
+
+---
+
+**English** → [README.en.md](README.en.md) · **正文（English）** → [AGENT-SYSTEM-ARCHITECTURE.en.md](AGENT-SYSTEM-ARCHITECTURE.en.md)
